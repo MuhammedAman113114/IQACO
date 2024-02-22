@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.072f3dad.css",
+    "main.js": "/static/js/main.18f0d28a.js",
+    "static/js/787.6fd64550.chunk.js": "/static/js/787.6fd64550.chunk.js",
+    "static/media/img4.jpg": "/static/media/img4.223bd0fe0feadf9dc08d.jpg",
+    "static/media/img2.jpg": "/static/media/img2.471cfaa56af7c71da2e4.jpg",
+    "static/media/img3.jpg": "/static/media/img3.6c6f048c23bf2ac8a7de.jpg",
+    "static/media/img1.jpg": "/static/media/img1.8bd7444643000523aa4b.jpg",
+    "static/media/quality.png": "/static/media/quality.36bfa8180f10e9f2e1e1.png",
+    "static/media/logo.png": "/static/media/logo.8cfc8a0b55c609d3db0a.png",
+    "static/media/logo1.png": "/static/media/logo1.7438d863aeb456bee5a3.png",
+    "static/media/LemonMilkProUltraLight.woff": "/static/media/LemonMilkProUltraLight.6887a4adebfb9ea6c3b5.woff",
+    "static/media/lemonmilkpro.woff": "/static/media/lemonmilkpro.0a54dcab3aa10a1c0ed7.woff",
+    "index.html": "/index.html",
+    "main.072f3dad.css.map": "/static/css/main.072f3dad.css.map",
+    "main.18f0d28a.js.map": "/static/js/main.18f0d28a.js.map",
+    "787.6fd64550.chunk.js.map": "/static/js/787.6fd64550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.072f3dad.css",
+    "static/js/main.18f0d28a.js"
+  ]
+}
